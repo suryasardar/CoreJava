@@ -6,6 +6,6 @@ public class Main {
 
         int max = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);
 
-        System.out.println("Maximum is: " + max);
+        System.out.println("Maximum is " + max);
     }
 }
