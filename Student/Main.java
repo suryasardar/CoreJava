@@ -8,7 +8,7 @@ public class Main {
          System.out.println("ID: " + id);
          System.out.println("Name: " + name);
          System.out.println("Qualification: " + qualification);
-         System.out.println("Age: " + age);
+         System.out.println("Age " + age);
     }
 
     public static void main(String[] args) {
